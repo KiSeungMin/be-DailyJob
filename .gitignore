@@ -1,0 +1,8 @@
+docs/
+CLAUDE.md
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
